@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-9A3EF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-paes-kolle-2bb08a30b/) [![Instagram](https://img.shields.io/badge/Instagram-9A3EF7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorkolle/) [![Figma](https://img.shields.io/badge/Figma-9A3EF7?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/user/1201643014433847388?fuid=1201643014433847388)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-9A3EF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-paes-kolle-2bb08a30b/)  [![Instagram](https://img.shields.io/badge/Instagram-9A3EF7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorkolle/)  [![Figma](https://img.shields.io/badge/Figma-9A3EF7?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/user/1201643014433847388?fuid=1201643014433847388)
 
 </div>
 

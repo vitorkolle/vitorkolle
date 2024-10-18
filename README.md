@@ -1,4 +1,4 @@
-<div style="width: 100px; display: flex; justify-content: center">
+<div style="width: 100vw; display: flex; justify-content: center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&letterSpacing=-1px&duration=3000&pause=300&color=9A3EF7FF&center=true&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo(a)%2C+meu+nome+%C3%A9+Vitor;Esse+%C3%A9+meu+Github)](https://git.io/typing-svg)
 

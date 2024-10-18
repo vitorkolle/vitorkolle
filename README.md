@@ -1,10 +1,10 @@
-<div style="width: 100vw; display: flex; justify-content: center">
+<div style="width: 100%; display: flex; justify-content: center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&letterSpacing=-1px&duration=3000&pause=300&color=9A3EF7FF&center=true&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo(a)%2C+meu+nome+%C3%A9+Vitor;Esse+%C3%A9+meu+Github)](https://git.io/typing-svg)
 
 </div>
 
-<div style="width: 10000px; display: flex; justify-content: center; gap: 15px;">
+<div style="width: 10%; display: flex; flex-direction: row; justify-content: center; gap: 15px;">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-9A3EF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-paes-kolle-2bb08a30b/)
 

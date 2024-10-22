@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<p style="color: #9A3EF7FF; font-size:1.6rem; font-family: Rubik; font-weight:400">Stats</p>
+<p style="color: #9A3EF7FF; font-size:25px; font-family: Rubik; font-weight:400">Stats</p>
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorkolle&show_icons=true&theme=tokyonight)
 
@@ -38,7 +38,7 @@
 
 <div align="center">
 
-<p style="color: #9A3EF7FF; font-size:1.6rem; font-family: Rubik; font-weight:400">Languages & Tools</p>
+<p style="color: #9A3EF7FF; font-size:35pxrem; font-family: Rubik; font-weight:400">Languages & Tools</p>
 
 <div>
 <img src = "https://img.shields.io/badge/HTML5-9A3EF7?style=for-the-badge&logo=html5&logoColor=white" alt = "html5">

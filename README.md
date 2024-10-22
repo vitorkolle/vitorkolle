@@ -1,6 +1,4 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+
 
 <div align="center">
 
@@ -23,7 +21,7 @@
 
 <div align="center">
 
-<p style="color: #9A3EF7FF; font-size:25px; font-family: Rubik; font-weight:400">Stats</p>
+<h1 style="color: #9A3EF7FF; font-size:25px; font-weight:400">Stats</h1>
 
 ![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorkolle&show_icons=true&theme=tokyonight)
 
@@ -32,13 +30,11 @@
 </div>
 
 
-
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitorkolle&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 
-<p style="color: #9A3EF7FF; font-size:35pxrem; font-family: Rubik; font-weight:400">Languages & Tools</p>
+<h1 style="color: #9A3EF7FF; font-size:35px; font-weight:400">Languages & Tools</h1>
 
 <div>
 <img src = "https://img.shields.io/badge/HTML5-9A3EF7?style=for-the-badge&logo=html5&logoColor=white" alt = "html5">

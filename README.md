@@ -34,7 +34,7 @@
 
 <div align="center">
 
-<h1 style="color: #9A3EF7FF; font-size:35px; font-weight:400">Languages & Tools</h1>
+<h1 style="color: #9A3EF7FF; font-size:35px; font-weight:400">Stack</h1>
 
 <div>
 <img src = "https://img.shields.io/badge/HTML5-9A3EF7?style=for-the-badge&logo=html5&logoColor=white" alt = "html5">

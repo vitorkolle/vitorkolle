@@ -10,7 +10,7 @@
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-9A3EF7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-paes-kolle-2bb08a30b/) 
-[![Instagram](https://img.shields.io/badge/Instagram-9A3EF7?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vitorkolle/) [![Figma](https://img.shields.io/badge/Figma-9A3EF7?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/user/1201643014433847388?fuid=1201643014433847388)
+[![Figma](https://img.shields.io/badge/Figma-9A3EF7?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/user/1201643014433847388?fuid=1201643014433847388)
 
 
 ![Alt Text](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
@@ -18,19 +18,6 @@
 </div>
 
 </br>
-
-<div align="center">
-
-<h1 style="color: #9A3EF7FF; font-size:25px; font-weight:400">Stats</h1>
-
-![Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorkolle&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorkolle&layout=compact&theme=tokyonight)
-
-</div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vitorkolle&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 
